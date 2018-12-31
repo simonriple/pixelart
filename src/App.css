@@ -1,7 +1,21 @@
-.App {
-  text-align: center;
+@import url('https://fonts.googleapis.com/css?family=Comfortaa');
+
+body{
+  background-color: cadetblue;
+  font-family: 'Comfortaa';
+  color: white;
 }
 
+.App {
+  text-align: center;
+  height: 100vh;
+  width: 100vw;
+}
+
+.canvas {
+  background-color: white;
+  border: 1px solid black;
+}
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 40vmin;

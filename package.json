@@ -2,8 +2,11 @@
   "name": "pixels",
   "version": "0.1.0",
   "private": true,
+  "homepage": "./",
   "dependencies": {
+    "firebase": "^5.5.4",
     "react": "^16.5.2",
+    "react-color": "^2.14.1",
     "react-dom": "^16.5.2",
     "react-scripts": "2.0.5"
   },
